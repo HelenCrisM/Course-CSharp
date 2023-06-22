@@ -1,0 +1,15 @@
+/home/helencris/Documents/C# - Curso/atividades/atividade7/bin/Debug/net6.0/atividade7
+/home/helencris/Documents/C# - Curso/atividades/atividade7/bin/Debug/net6.0/atividade7.deps.json
+/home/helencris/Documents/C# - Curso/atividades/atividade7/bin/Debug/net6.0/atividade7.runtimeconfig.json
+/home/helencris/Documents/C# - Curso/atividades/atividade7/bin/Debug/net6.0/atividade7.dll
+/home/helencris/Documents/C# - Curso/atividades/atividade7/bin/Debug/net6.0/ref/atividade7.dll
+/home/helencris/Documents/C# - Curso/atividades/atividade7/bin/Debug/net6.0/atividade7.pdb
+/home/helencris/Documents/C# - Curso/atividades/atividade7/obj/Debug/net6.0/atividade7.csproj.AssemblyReference.cache
+/home/helencris/Documents/C# - Curso/atividades/atividade7/obj/Debug/net6.0/atividade7.GeneratedMSBuildEditorConfig.editorconfig
+/home/helencris/Documents/C# - Curso/atividades/atividade7/obj/Debug/net6.0/atividade7.AssemblyInfoInputs.cache
+/home/helencris/Documents/C# - Curso/atividades/atividade7/obj/Debug/net6.0/atividade7.AssemblyInfo.cs
+/home/helencris/Documents/C# - Curso/atividades/atividade7/obj/Debug/net6.0/atividade7.csproj.CoreCompileInputs.cache
+/home/helencris/Documents/C# - Curso/atividades/atividade7/obj/Debug/net6.0/atividade7.dll
+/home/helencris/Documents/C# - Curso/atividades/atividade7/obj/Debug/net6.0/ref/atividade7.dll
+/home/helencris/Documents/C# - Curso/atividades/atividade7/obj/Debug/net6.0/atividade7.pdb
+/home/helencris/Documents/C# - Curso/atividades/atividade7/obj/Debug/net6.0/atividade7.genruntimeconfig.cache
