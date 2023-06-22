@@ -1,0 +1,15 @@
+/home/helencris/Documents/C# - Curso/atividades/atividade3/obj/Debug/net6.0/atividade3.csproj.AssemblyReference.cache
+/home/helencris/Documents/C# - Curso/atividades/atividade3/obj/Debug/net6.0/atividade3.GeneratedMSBuildEditorConfig.editorconfig
+/home/helencris/Documents/C# - Curso/atividades/atividade3/obj/Debug/net6.0/atividade3.AssemblyInfoInputs.cache
+/home/helencris/Documents/C# - Curso/atividades/atividade3/obj/Debug/net6.0/atividade3.AssemblyInfo.cs
+/home/helencris/Documents/C# - Curso/atividades/atividade3/obj/Debug/net6.0/atividade3.csproj.CoreCompileInputs.cache
+/home/helencris/Documents/C# - Curso/atividades/atividade3/bin/Debug/net6.0/atividade3
+/home/helencris/Documents/C# - Curso/atividades/atividade3/bin/Debug/net6.0/atividade3.deps.json
+/home/helencris/Documents/C# - Curso/atividades/atividade3/bin/Debug/net6.0/atividade3.runtimeconfig.json
+/home/helencris/Documents/C# - Curso/atividades/atividade3/bin/Debug/net6.0/atividade3.dll
+/home/helencris/Documents/C# - Curso/atividades/atividade3/bin/Debug/net6.0/ref/atividade3.dll
+/home/helencris/Documents/C# - Curso/atividades/atividade3/bin/Debug/net6.0/atividade3.pdb
+/home/helencris/Documents/C# - Curso/atividades/atividade3/obj/Debug/net6.0/atividade3.dll
+/home/helencris/Documents/C# - Curso/atividades/atividade3/obj/Debug/net6.0/ref/atividade3.dll
+/home/helencris/Documents/C# - Curso/atividades/atividade3/obj/Debug/net6.0/atividade3.pdb
+/home/helencris/Documents/C# - Curso/atividades/atividade3/obj/Debug/net6.0/atividade3.genruntimeconfig.cache

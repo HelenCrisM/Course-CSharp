@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "HelloWorld/HelloWorld.sln"
+    // "console": "integratedTerminal"
+}
