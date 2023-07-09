@@ -1,0 +1,15 @@
+/home/helencris/Documents/C# - Curso/atividades/POO/atividade1/obj/Debug/net6.0/atividade1.csproj.AssemblyReference.cache
+/home/helencris/Documents/C# - Curso/atividades/POO/atividade1/obj/Debug/net6.0/atividade1.GeneratedMSBuildEditorConfig.editorconfig
+/home/helencris/Documents/C# - Curso/atividades/POO/atividade1/obj/Debug/net6.0/atividade1.AssemblyInfoInputs.cache
+/home/helencris/Documents/C# - Curso/atividades/POO/atividade1/obj/Debug/net6.0/atividade1.AssemblyInfo.cs
+/home/helencris/Documents/C# - Curso/atividades/POO/atividade1/obj/Debug/net6.0/atividade1.csproj.CoreCompileInputs.cache
+/home/helencris/Documents/C# - Curso/atividades/POO/atividade1/bin/Debug/net6.0/atividade1
+/home/helencris/Documents/C# - Curso/atividades/POO/atividade1/bin/Debug/net6.0/atividade1.deps.json
+/home/helencris/Documents/C# - Curso/atividades/POO/atividade1/bin/Debug/net6.0/atividade1.runtimeconfig.json
+/home/helencris/Documents/C# - Curso/atividades/POO/atividade1/bin/Debug/net6.0/atividade1.dll
+/home/helencris/Documents/C# - Curso/atividades/POO/atividade1/bin/Debug/net6.0/ref/atividade1.dll
+/home/helencris/Documents/C# - Curso/atividades/POO/atividade1/bin/Debug/net6.0/atividade1.pdb
+/home/helencris/Documents/C# - Curso/atividades/POO/atividade1/obj/Debug/net6.0/atividade1.dll
+/home/helencris/Documents/C# - Curso/atividades/POO/atividade1/obj/Debug/net6.0/ref/atividade1.dll
+/home/helencris/Documents/C# - Curso/atividades/POO/atividade1/obj/Debug/net6.0/atividade1.pdb
+/home/helencris/Documents/C# - Curso/atividades/POO/atividade1/obj/Debug/net6.0/atividade1.genruntimeconfig.cache
