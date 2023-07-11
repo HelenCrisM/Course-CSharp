@@ -10,8 +10,9 @@ class Funcionario
       return salarioLiquido;
     }
 
-    // public void AumentarSalario(double porcentagem) 
-    // {
-    //   return SalarioLiquido() + (porcentagem/100)
-    // }
+    public double AumentarSalario(double porcentagem) 
+    {
+      double aumentoSalario = SalarioLiquido() + (SalarioBruto * (porcentagem/100));
+      return aumentoSalario;
+    }
 }

@@ -20,6 +20,12 @@ class Program
 
     Console.WriteLine("Funcionário: " + funcionario1.Nome + ", R$ " + salarioLiquido);
 
+    Console.Write("Digite a porcentagem para aumentar o salário: ");
+    double porcentagem = double.Parse(Console.ReadLine());
+
+
+    Console.WriteLine("Dados atualizados: " + funcionario1.Nome + ", R$ " + funcionario1.AumentarSalario(porcentagem));
+
    
   }
 }

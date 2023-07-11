@@ -1,4 +1,3 @@
 {
-    "dotnet.defaultSolution": "HelloWorld/HelloWorld.sln"
-    // "console": "integratedTerminal"
+  "dotnet.defaultSolution": "atividades/HelloWorld/HelloWorld.sln"
 }

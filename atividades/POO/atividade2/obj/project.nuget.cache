@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "97lnshypACpsJOCVGskAxAdBFNnzmmJtpEdKqnkCS1jPDKWwia1kfJ7bxb89Vyo6V32ZcBqSNVZeILCR9+vdwg==",
+  "dgSpecHash": "GwzaYkMqHMnv68YRsPtZy7HcWGzKK37Hn4X64ijyJJvpyVMRCT7YMRooAF08zgOMKchTMDUVDO7XBf5hm2cScw==",
   "success": true,
   "projectFilePath": "/home/helencris/Documents/C# - Curso/atividades/POO/atividade2/atividade2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/helencris/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.18/microsoft.netcore.app.host.linux-x64.6.0.18.nupkg.sha512"
+  ],
   "logs": []
 }

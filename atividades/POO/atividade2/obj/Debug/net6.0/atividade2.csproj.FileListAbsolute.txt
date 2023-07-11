@@ -7,9 +7,9 @@
 /home/helencris/Documents/C# - Curso/atividades/POO/atividade2/bin/Debug/net6.0/atividade2.deps.json
 /home/helencris/Documents/C# - Curso/atividades/POO/atividade2/bin/Debug/net6.0/atividade2.runtimeconfig.json
 /home/helencris/Documents/C# - Curso/atividades/POO/atividade2/bin/Debug/net6.0/atividade2.dll
-/home/helencris/Documents/C# - Curso/atividades/POO/atividade2/bin/Debug/net6.0/ref/atividade2.dll
 /home/helencris/Documents/C# - Curso/atividades/POO/atividade2/bin/Debug/net6.0/atividade2.pdb
 /home/helencris/Documents/C# - Curso/atividades/POO/atividade2/obj/Debug/net6.0/atividade2.dll
 /home/helencris/Documents/C# - Curso/atividades/POO/atividade2/obj/Debug/net6.0/ref/atividade2.dll
 /home/helencris/Documents/C# - Curso/atividades/POO/atividade2/obj/Debug/net6.0/atividade2.pdb
 /home/helencris/Documents/C# - Curso/atividades/POO/atividade2/obj/Debug/net6.0/atividade2.genruntimeconfig.cache
+/home/helencris/Documents/C# - Curso/atividades/POO/atividade2/obj/Debug/net6.0/refint/atividade2.dll

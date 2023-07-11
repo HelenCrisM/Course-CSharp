@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HT8bnXhqL19KnLtDJ/sY+ieOiBuf9Zx8XmgeU07Hc9LagjTCfoYRIsMs6Tl21+Osp2wgcU5ZS46MDVBFj9YEVw==",
+  "dgSpecHash": "vVEA34VSCDICOVQjta5FDLuLA+XqI3fOIYSKJTCn9zftWXRBHkihp4seoMUgewZC66iZCdM99enUXP7jS6kDug==",
   "success": true,
   "projectFilePath": "/home/helencris/Documents/C# - Curso/atividades/HelloWorld/HelloWorld.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/helencris/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.18/microsoft.netcore.app.host.linux-x64.6.0.18.nupkg.sha512"
+  ],
   "logs": []
 }
